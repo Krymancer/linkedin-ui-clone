@@ -2,5 +2,5 @@
 A clone of Linkedin UI using ReacJS and Typescript
 
 <p align="center">
-  <img alt="FlappyBird" src=".github/linkedin-ui.png">
+  <img alt="Linkedin" src=".github/linkedin-ui.png">
 </p>
